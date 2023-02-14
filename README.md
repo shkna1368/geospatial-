@@ -1,3 +1,3 @@
 # geospatial
-use geospatial database(postgis-mongo-elastic) with spring data jpa
+use geospatial database(oracle-postgis-mongo-elastic) with spring data jpa
 
